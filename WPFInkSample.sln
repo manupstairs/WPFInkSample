@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFInkSample", "WPFInkSample.csproj", "{E57AAD78-AE97-48AA-B09D-8AE6D185380B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFInkSample", "WPFInkSample\WPFInkSample.csproj", "{E57AAD78-AE97-48AA-B09D-8AE6D185380B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainUI", "MainUI\MainUI.csproj", "{0C398790-2F82-4A17-93CE-2C6E51AFCFA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E57AAD78-AE97-48AA-B09D-8AE6D185380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E57AAD78-AE97-48AA-B09D-8AE6D185380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E57AAD78-AE97-48AA-B09D-8AE6D185380B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C398790-2F82-4A17-93CE-2C6E51AFCFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C398790-2F82-4A17-93CE-2C6E51AFCFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C398790-2F82-4A17-93CE-2C6E51AFCFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C398790-2F82-4A17-93CE-2C6E51AFCFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
